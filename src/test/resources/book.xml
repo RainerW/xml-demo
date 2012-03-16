@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <chapter number="1">
+    <title>DOM</title>
+    <content>
+      Reads the whole XML document into the memory...
+    </content>
+  </chapter>
+  <chapter number="2">
+    <title>SAX</title>
+    <content>
+      Reads NOT the whole XML document into the memory...
+    </content>
+  </chapter>
+</book>
